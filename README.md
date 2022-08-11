@@ -23,7 +23,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"></svg>
 <a href="https://www.cisco.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png" alt="Cisco" weight="60" height="50" /></a>
 <a href="https://juniper.net" target="_blank"><img style="margin: 10px" src="https://www.coursemonster.com/images/training-logos/juniper-logo.png" alt="Juniper" weight="60" height="50" /></a>
-<a href="https://carrier.huawei.com/en/" target="_blank"><img style="margin: 10px" src="https://carrier.huawei.com/~/media/cnbg/images/home/huawei_logo.png?h=30&la=en&w=133" alt="Huawei" weight="60" height="50" /></a>
+<a href="https://carrier.huawei.com/en/" target="_blank"><img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2016/09/huawei-logo-0.png" alt="Huawei" weight="60" height="50" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
