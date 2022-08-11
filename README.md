@@ -1,9 +1,10 @@
-### Hi there 👋
 <div align="center">
-<img src="https://media3.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" align="center" />
+  
+  ![ezgif-4-3155ac4286](https://user-images.githubusercontent.com/22855177/184213769-c0d7a9bb-6361-40df-b3f1-4d2e68bc60d2.gif)
 </div>
 
-### <div align="center">I'm Benicio, a full-time network engineer 👨‍💻</div>  
+### <div align="center"> Hi there 👋 I'm Benicio, a full-time network engineer 👨‍💻</div>  
+<br/>
 
 - 🔭 I’m currently working on EVE-NG for Docker, a little personal project to make the most of the OCI free instance  
 
@@ -16,9 +17,9 @@
 <br/>  
 
 ## My Skill Set  
-<table bgcolor="#FF0000"><tr><td valign="top" width="90%">
 <div align="center">
-<div style="background-color:white">
+<table><tr><td valign="top" width="90%">
+<div align="center">
 <a href="https://www.cisco.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png" alt="Cisco" weight="60" height="50" /></a>
 <a href="https://juniper.net" target="_blank"><img style="margin: 10px" src="https://www.coursemonster.com/images/training-logos/juniper-logo.png" alt="Juniper" weight="60" height="50" /></a>
 <a href="https://carrier.huawei.com/en/" target="_blank"><img style="margin: 10px" src="https://logodownload.org/wp-content/uploads/2016/09/huawei-logo-0.png" alt="Huawei" weight="60" height="50" /></a></div>
@@ -50,7 +51,7 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nigr0mante&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nigr0mante&show_icons=true&count_private=true&hide_border=false&theme=dracula" align="center" /></div>  
 
 <!-- ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
@@ -61,7 +62,7 @@
 <img src="https://komarev.com/ghpvc/?username=nigr0mante&&style=flat-square" align="center" />
 </div>  
 
-<div align="center"></div>
+<br/>
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!--
