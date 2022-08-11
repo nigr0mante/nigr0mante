@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<img src="https://media3.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" align="center" height="" width="350" />
+<img src="https://media3.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" align="center" />
 </div>
 
 ### <div align="center">I'm Benicio, a full-time network engineer 👨‍💻</div>  
@@ -19,7 +19,11 @@
 <table><tr><td valign="top" width="90%">
 
 ### DevOps/Infrastructure  
-<div align="center">  
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg"></svg>
+<a href="https://www.cisco.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Cisco_logo-1000px.png" alt="Cisco" weight="60" height="50" /></a>
+<a href="https://juniper.net" target="_blank"><img style="margin: 10px" src="https://www.coursemonster.com/images/training-logos/juniper-logo.png" alt="Juniper" weight="60" height="50" /></a>
+<a href="https://carrier.huawei.com/en/" target="_blank"><img style="margin: 10px" src="https://carrier.huawei.com/~/media/cnbg/images/home/huawei_logo.png?h=30&la=en&w=133" alt="Huawei" weight="60" height="50" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
