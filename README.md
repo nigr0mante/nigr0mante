@@ -16,6 +16,9 @@
   
 <br/>  
 
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
+
 ## My Skill Set  
 <div align="center">
 <table><tr><td valign="top" width="90%">
