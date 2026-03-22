@@ -16,6 +16,7 @@
   
 <br/>  
 
+## My certifications and badges from <a href="https://www.credly.com/users/benicio-diaz" target="_blank">Credly</a>
 <!-- START CREDLY BADGES -->
 [![Fortinet FortiGate 7.6 Operator](https://images.credly.com/size/150x150/images/92f41b16-a144-41e5-a5ab-f853faaf0939/blob)](https://www.credly.com/badges/32d6aaea-5113-4b6d-a435-4861e0021694)
 [![Introduction to Network Simulations with Cisco Modeling Labs](https://images.credly.com/size/150x150/images/b3ed05c5-4411-4ee6-b2a2-58a187a76b8d/blob)](https://www.credly.com/badges/514505ac-0cdb-4c32-93ff-6f5961948512)
