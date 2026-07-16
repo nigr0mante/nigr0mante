@@ -19,7 +19,7 @@
 ## My certifications and badges from <a href="https://www.credly.com/users/benicio-diaz" target="_blank">Credly</a>
 <!-- START CREDLY BADGES -->
 [![Juniper Networks Certified Professional, Service Provider Routing & Switching (JNCIP-SP)](https://images.credly.com/size/150x150/images/57dae551-be95-4d64-a29c-947aa1ff7090/L_03_prof_JNCIP-SP.png)](https://www.credly.com/badges/19c30761-aafc-400b-91e5-d38e457e7b33)
-[![Fortinet FortiGate 7.6 Operator](https://images.credly.com/size/150x150/images/92f41b16-a144-41e5-a5ab-f853faaf0939/blob)](https://www.credly.com/badges/32d6aaea-5113-4b6d-a435-4861e0021694)
+[![Fortinet FortiGate 7.6 Operator](https://images.credly.com/size/150x150/images/453a3ef3-b400-4840-91b1-2f1f5157e015/blob)](https://www.credly.com/badges/32d6aaea-5113-4b6d-a435-4861e0021694)
 [![Introduction to Network Simulations with Cisco Modeling Labs](https://images.credly.com/size/150x150/images/b3ed05c5-4411-4ee6-b2a2-58a187a76b8d/blob)](https://www.credly.com/badges/514505ac-0cdb-4c32-93ff-6f5961948512)
 [![Implementing and Troubleshooting Networks Using Cisco ThousandEyes](https://images.credly.com/size/150x150/images/63cd79e2-5e02-4107-ae7e-6281c2cadd19/blob)](https://www.credly.com/badges/00b9d645-b8dc-47f4-98a0-90a1c404ebb8)
 [![Enhancing Cisco Security Solutions with Data Analytics](https://images.credly.com/size/150x150/images/7e6e13df-6c15-4ab8-9a5e-c3d8d34a88a6/blob)](https://www.credly.com/badges/5a8f67d7-80eb-44d2-8463-142356c6842c)
@@ -27,10 +27,13 @@
 [![Linux Essentials Certificate](https://images.credly.com/size/150x150/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob)](https://www.credly.com/badges/3bc301e1-9737-4529-935a-4412497ff81f)
 [![Fortinet FortiGate 7.4 Operator](https://images.credly.com/size/150x150/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png)](https://www.credly.com/badges/e52f8d02-6354-40d4-911f-e52d2383b1d1)
 [![Fortinet Certified Associate Cybersecurity](https://images.credly.com/size/150x150/images/20082fc1-94af-4773-9df0-28856b566748/image.png)](https://www.credly.com/badges/8144a7d4-f2b5-4f49-bb9a-9431b8c296c8)
+[![Fortinet NSE 3 Certified in Cybersecurity](https://images.credly.com/size/150x150/images/7ca06297-1543-4ed2-b9fc-7f0af8635700/blob)](https://www.credly.com/badges/82c7928e-7737-4eab-ab5b-67e61a1b4251)
 [![Juniper Networks Certified Specialist, Service Provider Routing & Switching (JNCIS-SP)](https://images.credly.com/size/150x150/images/d1abdf09-8a5b-4caf-8d2c-ea9538f26fdd/L_02_specl_JNCIS-SP.png)](https://www.credly.com/badges/c8b3775e-c08c-4d37-ba5e-510a865dc3bd)
 [![Juniper Networks Certified Associate, Design (JNCIA-Design)](https://images.credly.com/size/150x150/images/fc3921b5-3f3e-4869-b55b-ddb94249c0bb/image.png)](https://www.credly.com/badges/1c0dbb57-1184-4f27-975a-cc1a83d656c2)
 [![Juniper Networks Certified Associate, Junos (JNCIA-Junos)](https://images.credly.com/size/150x150/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png)](https://www.credly.com/badges/2ee2c9c8-2a32-406b-8e8c-0766a4113066)
 [![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/150x150/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](https://www.credly.com/badges/bfed6dd9-992a-4ce3-a643-2947ea99ce63)
+[![Fortinet NSE 1 Certified in Cybersecurity](https://images.credly.com/size/150x150/images/0dc7965b-8507-4312-9c12-1add6c50fa49/blob)](https://www.credly.com/badges/a4e117ab-1b54-4565-b189-8746a8c153f5)
+[![Fortinet NSE 2 Certified in Cybersecurity](https://images.credly.com/size/150x150/images/a30952f3-f354-4233-b02a-690ffe95d190/blob)](https://www.credly.com/badges/209cf6da-c17b-4b27-9740-9faafc0a8f42)
 [![Cisco Certified Specialist - Enterprise Design](https://images.credly.com/size/150x150/images/0043c60d-61ae-4a79-955c-0daebb9c566d/blob)](https://www.credly.com/badges/1957e7f4-b13f-4679-be4c-d0a7136e6308)
 [![Cisco Certified Network Professional Enterprise (CCNP Enterprise)](https://images.credly.com/size/150x150/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png)](https://www.credly.com/badges/322f2236-43d0-4b6e-823d-77fba1637366)
 [![Cisco Certified Specialist - Enterprise Core](https://images.credly.com/size/150x150/images/e544ac8f-cd4e-4262-9de1-1174680b3bb4/blob)](https://www.credly.com/badges/7e4373ef-7bb7-46f0-b879-b7e102924960)
