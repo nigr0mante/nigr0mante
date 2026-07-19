@@ -18,6 +18,7 @@
 
 ## My certifications and badges from <a href="https://www.credly.com/users/benicio-diaz" target="_blank">Credly</a>
 <!-- START CREDLY BADGES -->
+[![Lifelong Learning 2026](https://images.credly.com/size/150x150/images/5e2afabf-62f3-48ae-bbed-7e57c2e78c6a/blob)](https://www.credly.com/badges/838b64ae-a318-47f9-a1a4-099a303db543)
 [![Juniper Networks Certified Professional, Service Provider Routing & Switching (JNCIP-SP)](https://images.credly.com/size/150x150/images/57dae551-be95-4d64-a29c-947aa1ff7090/L_03_prof_JNCIP-SP.png)](https://www.credly.com/badges/19c30761-aafc-400b-91e5-d38e457e7b33)
 [![Fortinet FortiGate 7.6 Operator](https://images.credly.com/size/150x150/images/453a3ef3-b400-4840-91b1-2f1f5157e015/blob)](https://www.credly.com/badges/32d6aaea-5113-4b6d-a435-4861e0021694)
 [![Introduction to Network Simulations with Cisco Modeling Labs](https://images.credly.com/size/150x150/images/b3ed05c5-4411-4ee6-b2a2-58a187a76b8d/blob)](https://www.credly.com/badges/514505ac-0cdb-4c32-93ff-6f5961948512)
