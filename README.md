@@ -18,6 +18,7 @@
 
 ## My certifications and badges from <a href="https://www.credly.com/users/benicio-diaz" target="_blank">Credly</a>
 <!-- START CREDLY BADGES -->
+[![Understanding Cisco Data Center Foundations](https://images.credly.com/size/150x150/images/ae010caf-f6d0-45d0-8665-a9dc631021f0/blob)](https://www.credly.com/badges/1f4b5f2b-1242-4a67-86b5-8532c9153d2c)
 [![Lifelong Learning 2026](https://images.credly.com/size/150x150/images/5e2afabf-62f3-48ae-bbed-7e57c2e78c6a/blob)](https://www.credly.com/badges/838b64ae-a318-47f9-a1a4-099a303db543)
 [![Juniper Networks Certified Professional, Service Provider Routing & Switching (JNCIP-SP)](https://images.credly.com/size/150x150/images/29e09e01-d2e2-49b9-86f9-900347140187/blob)](https://www.credly.com/badges/19c30761-aafc-400b-91e5-d38e457e7b33)
 [![Fortinet FortiGate 7.6 Operator](https://images.credly.com/size/150x150/images/453a3ef3-b400-4840-91b1-2f1f5157e015/blob)](https://www.credly.com/badges/32d6aaea-5113-4b6d-a435-4861e0021694)
