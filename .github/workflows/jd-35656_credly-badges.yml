@@ -17,6 +17,6 @@ jobs:
         uses: jd-35656/readme-credly-badges@main
         with:
           credly_username: 'benicio-diaz'
-          badge_size: '150x150'
+          badge_size: '15x15'
           badge_sort_by: 'issued'
           github_token: ${{ secrets.GITHUB_TOKEN }}
