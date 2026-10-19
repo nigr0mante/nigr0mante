@@ -19,6 +19,42 @@
 ## My certifications and badges from <a href="https://www.credly.com/users/benicio-diaz" target="_blank">Credly</a>
 <!--code from https://github.com/Sagargupta16/credly-badge-readme-action -->
 <!-- CREDLY-BADGES:START -->
+🏅 **Industry Certifications**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/19c30761-aafc-400b-91e5-d38e457e7b33" title="Juniper Networks Certified Professional, Service Provider Routing &amp; Switching (JNCIP-SP)"><img src="https://images.credly.com/size/100x100/images/29e09e01-d2e2-49b9-86f9-900347140187/blob" alt="Juniper Networks Certified Professional, Service Provider Routing &amp; Switching (JNCIP-SP)" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/322f2236-43d0-4b6e-823d-77fba1637366" title="Cisco Certified Network Professional Enterprise (CCNP Enterprise)"><img src="https://images.credly.com/size/100x100/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" alt="Cisco Certified Network Professional Enterprise (CCNP Enterprise)" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/1957e7f4-b13f-4679-be4c-d0a7136e6308" title="Cisco Certified Specialist - Enterprise Design"><img src="https://images.credly.com/size/100x100/images/0043c60d-61ae-4a79-955c-0daebb9c566d/blob" alt="Cisco Certified Specialist - Enterprise Design" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/c8b3775e-c08c-4d37-ba5e-510a865dc3bd" title="Juniper Networks Certified Specialist, Service Provider Routing &amp; Switching (JNCIS-SP)"><img src="https://images.credly.com/size/100x100/images/552ea280-c4b8-4056-888e-8d0b072b6746/blob" alt="Juniper Networks Certified Specialist, Service Provider Routing &amp; Switching (JNCIS-SP)" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/8144a7d4-f2b5-4f49-bb9a-9431b8c296c8" title="Fortinet Certified Associate Cybersecurity"><img src="https://images.credly.com/size/100x100/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="Fortinet Certified Associate Cybersecurity" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/1c0dbb57-1184-4f27-975a-cc1a83d656c2" title="Juniper Networks Certified Associate, Design (JNCIA-Design)"><img src="https://images.credly.com/size/100x100/images/9f9b4c06-9f83-4dc0-ace7-7cfc2927816d/blob" alt="Juniper Networks Certified Associate, Design (JNCIA-Design)" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/2ee2c9c8-2a32-406b-8e8c-0766a4113066" title="Juniper Networks Certified Associate, Junos (JNCIA-Junos)"><img src="https://images.credly.com/size/100x100/images/a1b32a3b-e472-4f75-9898-e69435c132ea/blob" alt="Juniper Networks Certified Associate, Junos (JNCIA-Junos)" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/7e4373ef-7bb7-46f0-b879-b7e102924960" title="Cisco Certified Specialist - Enterprise Core"><img src="https://images.credly.com/size/100x100/images/e544ac8f-cd4e-4262-9de1-1174680b3bb4/blob" alt="Cisco Certified Specialist - Enterprise Core" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/bfed6dd9-992a-4ce3-a643-2947ea99ce63" title="Fortinet Certified Fundamentals Cybersecurity"><img src="https://images.credly.com/size/100x100/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="Fortinet Certified Fundamentals Cybersecurity" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/33205112-9009-4d99-ad2d-90c9bbce438f" title="Cisco Certified Specialist - Enterprise Advanced Infrastructure"><img src="https://images.credly.com/size/100x100/images/79bdda6a-bac2-4549-805c-2c3b3c2d2c44/blob" alt="Cisco Certified Specialist - Enterprise Advanced Infrastructure" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/82c7928e-7737-4eab-ab5b-67e61a1b4251" title="Fortinet NSE 3 Certified in Cybersecurity"><img src="https://images.credly.com/size/100x100/images/7ca06297-1543-4ed2-b9fc-7f0af8635700/blob" alt="Fortinet NSE 3 Certified in Cybersecurity" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/a4e117ab-1b54-4565-b189-8746a8c153f5" title="Fortinet NSE 1 Certified in Cybersecurity"><img src="https://images.credly.com/size/100x100/images/0dc7965b-8507-4312-9c12-1add6c50fa49/blob" alt="Fortinet NSE 1 Certified in Cybersecurity" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/209cf6da-c17b-4b27-9740-9faafc0a8f42" title="Fortinet NSE 2 Certified in Cybersecurity"><img src="https://images.credly.com/size/100x100/images/a30952f3-f354-4233-b02a-690ffe95d190/blob" alt="Fortinet NSE 2 Certified in Cybersecurity" width="100" height="100"></a>
+
+</div>
+
+📚 **Knowledge & Learning Badges**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/3bc301e1-9737-4529-935a-4412497ff81f" title="Linux Essentials Certificate"><img src="https://images.credly.com/size/100x100/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" alt="Linux Essentials Certificate" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/5a8f67d7-80eb-44d2-8463-142356c6842c" title="Enhancing Cisco Security Solutions with Data Analytics"><img src="https://images.credly.com/size/100x100/images/7e6e13df-6c15-4ab8-9a5e-c3d8d34a88a6/blob" alt="Enhancing Cisco Security Solutions with Data Analytics" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/abf21aa5-92e0-4d1b-8af7-0d66394c162e" title="AI Solutions on Cisco Infrastructure Essentials"><img src="https://images.credly.com/size/100x100/images/cfd697ad-4bec-4245-82c8-c7ab4cfc340b/blob" alt="AI Solutions on Cisco Infrastructure Essentials" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/e52f8d02-6354-40d4-911f-e52d2383b1d1" title="Fortinet FortiGate 7.4 Operator"><img src="https://images.credly.com/size/100x100/images/4b6db74c-f2da-4958-ad21-27288f2dd7f3/image.png" alt="Fortinet FortiGate 7.4 Operator" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/fbb852dd-4ef3-49d0-918e-abc21fa54979" title="CCNA"><img src="https://images.credly.com/size/100x100/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/32d6aaea-5113-4b6d-a435-4861e0021694" title="Fortinet FortiGate 7.6 Operator"><img src="https://images.credly.com/size/100x100/images/453a3ef3-b400-4840-91b1-2f1f5157e015/blob" alt="Fortinet FortiGate 7.6 Operator" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/00b9d645-b8dc-47f4-98a0-90a1c404ebb8" title="Implementing and Troubleshooting Networks Using Cisco ThousandEyes"><img src="https://images.credly.com/size/100x100/images/63cd79e2-5e02-4107-ae7e-6281c2cadd19/blob" alt="Implementing and Troubleshooting Networks Using Cisco ThousandEyes" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/514505ac-0cdb-4c32-93ff-6f5961948512" title="Introduction to Network Simulations with Cisco Modeling Labs"><img src="https://images.credly.com/size/100x100/images/b3ed05c5-4411-4ee6-b2a2-58a187a76b8d/blob" alt="Introduction to Network Simulations with Cisco Modeling Labs" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/1f4b5f2b-1242-4a67-86b5-8532c9153d2c" title="Understanding Cisco Data Center Foundations"><img src="https://images.credly.com/size/100x100/images/ae010caf-f6d0-45d0-8665-a9dc631021f0/blob" alt="Understanding Cisco Data Center Foundations" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/838b64ae-a318-47f9-a1a4-099a303db543" title="Lifelong Learning 2026"><img src="https://images.credly.com/size/100x100/images/5e2afabf-62f3-48ae-bbed-7e57c2e78c6a/blob" alt="Lifelong Learning 2026" width="100" height="100"></a>
+
+</div>
 <!-- CREDLY-BADGES:END -->
 
 ## My Skill Set  
