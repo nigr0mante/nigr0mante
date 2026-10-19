@@ -1,4 +1,4 @@
-name: Update Credly Badges
+name: Update Credly Badges (from jd-35656)
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Update Credly Badges
-        uses: jd-35656/readme-credly-badges@v1
+        uses: jd-35656/readme-credly-badges@main
         with:
           credly_username: 'benicio-diaz'
           badge_size: '150x150'
