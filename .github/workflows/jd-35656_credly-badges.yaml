@@ -14,9 +14,7 @@ jobs:
 
     steps:
       - name: Update Credly Badges
-        uses: jd-35656/readme-credly-badges@main
+        uses: jd-35656/readme-credly-badges@v1.4.0
         with:
           credly_username: 'benicio-diaz'
-          badge_size: '15x15'
-          badge_sort_by: 'issued'
           github_token: ${{ secrets.GITHUB_TOKEN }}
