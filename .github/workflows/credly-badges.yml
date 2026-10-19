@@ -18,5 +18,5 @@ jobs:
         with:
           credly_username: 'benicio-diaz'
           badge_size: '150x150'
-          badges_sort_by: 'issued'
+          badge_sort_by: 'issued'
           github_token: ${{ secrets.GITHUB_TOKEN }}
